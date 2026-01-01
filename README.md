@@ -1,22 +1,27 @@
 # 👋 Hey, I’m Debjit Dey
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Full%20Stack%20Engineer&fontSize=68&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Engineer&fontSize=64&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
+  <b>Building calm, reliable systems for real-world complexity.</b><br/>
+  AI-first products • Commerce intelligence • Developer tooling
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="60%" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Full Stack Engineer** focused on building systems that survive real-world usage — not just demos, screenshots, or happy paths.
+I’m a **Full Stack Engineer** focused on building software that holds up outside of demos — under load, over time, and in the hands of real users.
 
-My work sits at the intersection of **product engineering, system design, and developer experience**. I enjoy reasoning about trade-offs, designing clean architectures, and turning ambiguous requirements into reliable, scalable software.
+My work sits at the intersection of **product engineering, system design, and developer experience**. I enjoy reasoning about trade-offs, designing clean architectures, and turning ambiguous requirements into reliable, scalable systems.
 
-I care deeply about **correctness, determinism, and long-term maintainability**.  
+I care deeply about **correctness, determinism, and maintainability**.  
 If something is fragile or hard to debug, it bothers me.  
 If something is boring, predictable, and stable in production — I like it.
 
@@ -85,7 +90,7 @@ Flowstack focuses on turning raw operational data into **actionable insight**, n
 - Admin and analytics dashboards with real-time data  
 - Workflow tooling focused on speed and developer ergonomics  
 
-These projects taught me a lot about **prompt reliability, system boundaries, and failure modes in AI-assisted systems**.
+These projects sharpened my thinking around **prompt reliability, system boundaries, and failure modes in AI-assisted systems**.
 
 ---
 
