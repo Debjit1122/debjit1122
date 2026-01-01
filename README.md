@@ -5,18 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Full Stack Engineer** who focuses on building systems that hold up in the real world — not just in demos or screenshots.
+I’m a **Full Stack Engineer** focused on building systems that survive real-world usage — not just demos, screenshots, or happy paths.
 
-My work lives at the intersection of **product engineering, system design, and developer experience**. I enjoy designing clean architectures, reasoning about trade-offs, and turning vague requirements into reliable, scalable software.
+My work sits at the intersection of **product engineering, system design, and developer experience**. I enjoy reasoning about trade-offs, designing clean architectures, and turning ambiguous requirements into reliable, scalable software.
 
-I care deeply about **correctness, determinism, and long-term maintainability**. If something is fragile, leaky, or hard to debug, it bothers me. If something is boring, predictable, and stable in production — I like it.
+I care deeply about **correctness, determinism, and long-term maintainability**.  
+If something is fragile or hard to debug, it bothers me.  
+If something is boring, predictable, and stable in production — I like it.
 
 - 🇮🇳 Based in India, working with global teams  
 - 🧠 Interested in **AI systems, distributed architecture, and DX**
@@ -33,7 +35,7 @@ I care deeply about **correctness, determinism, and long-term maintainability**.
 - If it’s hard to debug, it’s not done  
 - Scale is a design constraint, not a future problem  
 
-I enjoy working across frontend, backend, and infrastructure — especially where decisions in one layer affect the others.
+I enjoy working across frontend, backend, and infrastructure — especially where decisions in one layer ripple into the others.
 
 ---
 
@@ -49,8 +51,9 @@ A deterministic, browser-first JSON processing toolkit built for developers who 
 - Type generation (TypeScript / Zod)  
 - Structure analysis and custom validation rules  
 
-**Why it exists**
-Most JSON tools are fragmented, non-deterministic, or over-engineered. StableJSON is intentionally calm, predictable, and dependency-light.
+**Why it exists**  
+Most JSON tools are fragmented, non-deterministic, or over-engineered.  
+StableJSON is intentionally calm, predictable, and dependency-light.
 
 Built for longevity, not hype.
 
@@ -59,7 +62,7 @@ Built for longevity, not hype.
 ### 🔹 Flowstack — Commerce Intelligence Platform
 An **AI-first commerce intelligence platform** designed to help businesses **understand, operate, and optimize their commerce stack** across channels.
 
-Flowstack focuses on turning raw operational data into **actionable insight**, rather than just dashboards.
+Flowstack focuses on turning raw operational data into **actionable insight**, not just dashboards.
 
 **Key areas**
 - Unified view of products, orders, customers, and vendors  
@@ -115,26 +118,13 @@ These projects taught me a lot about **prompt reliability, system boundaries, an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjit1122&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit1122&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=debjit1122&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 | Area | Focus |
 |---|---|
 | AI Systems | RAG pipelines, agents, prompt reliability |
 | System Design | Distributed systems, caching, failure handling |
-| Developer Tooling | Building tools that feel obvious to use |
+| Developer Tooling | Tools that feel obvious to use |
 | Product Thinking | Fewer features, stronger fundamentals |
 
 ---
@@ -157,13 +147,16 @@ I’m open to:
 - thoughtful technical discussions  
 
 <p align="left">
+  <a href="https://github.com/debjit1122" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.debjitdey.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/debjit-dey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-debjitdey450@gmail.com">
+  <a href="mailto:debjit450@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
