@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Building calm, reliable systems for real-world complexity.</b><br/>
-  AI-first products • Commerce intelligence • Developer tooling
+  <b>Building reliable systems for real-world complexity.</b><br/>
+  Designing and building software with clarity, reliability, and long-term maintainability.
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ The focus was on reliability, operational clarity, and scalability across region
 ### 🔹 StableJSON  
 **Deterministic JSON Processing Toolkit**
 
-A browser-first JSON toolkit for developers who care about **consistency and correctness**.
+A browser-first open source JSON toolkit for developers who care about **consistency and correctness**.
 
 - Canonical JSON output for hashing and comparison  
 - Validation, formatting, diffing, and querying  
