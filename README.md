@@ -1,93 +1,180 @@
-# 👋 Hey there, I'm Debjit Dey!
+# 👋 Hey, I’m Debjit Dey
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Full%20Stack%20Engineer&fontSize=68&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" />
 </p>
 
-### 🚀 About Me
-I am a **Full Stack Developer** on a mission to bridge the gap between human creativity and artificial intelligence. I specialize in building **AI-first SaaS products**, architecting scalable systems, and crafting seamless digital experiences that solve real-world problems.
+---
 
-- 🌍 Based in India, working globally.
-- 🧠 Deeply interested in **LLMs, Cloud Architecture, and UX Design**.
-- 🛠️ Believer in **Clean Code** and **Agile Methodologies**.
-- 💬 Ask me about: **React, Next.js, and how to scale Node.js apps**.
+## 🧭 About Me
+
+I’m a **Full Stack Engineer** who focuses on building systems that hold up in the real world — not just in demos or screenshots.
+
+My work lives at the intersection of **product engineering, system design, and developer experience**. I enjoy designing clean architectures, reasoning about trade-offs, and turning vague requirements into reliable, scalable software.
+
+I care deeply about **correctness, determinism, and long-term maintainability**. If something is fragile, leaky, or hard to debug, it bothers me. If something is boring, predictable, and stable in production — I like it.
+
+- 🇮🇳 Based in India, working with global teams  
+- 🧠 Interested in **AI systems, distributed architecture, and DX**
+- 🛠 Strong bias toward **clean APIs and simple mental models**
+- ✍️ I think in systems, not buzzwords
 
 ---
 
-## 🛠 My Tech Arsenal
+## 🧠 How I Approach Engineering
 
-### 💻 Frontend & Styling
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Products first, abstractions second  
+- Determinism over cleverness  
+- APIs are contracts, not suggestions  
+- If it’s hard to debug, it’s not done  
+- Scale is a design constraint, not a future problem  
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I enjoy working across frontend, backend, and infrastructure — especially where decisions in one layer affect the others.
 
 ---
 
-## 📊 GitHub Ecosystem
+## 🧩 Selected Projects
+
+### 🔹 StableJSON
+A deterministic, browser-first JSON processing toolkit built for developers who care about **consistency and correctness**.
+
+**What it provides**
+- Canonical JSON output for hashing and comparison  
+- JSON validation, formatting, diffing, and querying  
+- JSONPath support  
+- Type generation (TypeScript / Zod)  
+- Structure analysis and custom validation rules  
+
+**Why it exists**
+Most JSON tools are fragmented, non-deterministic, or over-engineered. StableJSON is intentionally calm, predictable, and dependency-light.
+
+Built for longevity, not hype.
+
+---
+
+### 🔹 Flowstack — Commerce Intelligence Platform
+An **AI-first commerce intelligence platform** designed to help businesses **understand, operate, and optimize their commerce stack** across channels.
+
+Flowstack focuses on turning raw operational data into **actionable insight**, rather than just dashboards.
+
+**Key areas**
+- Unified view of products, orders, customers, and vendors  
+- AI-assisted insights for sales, operations, and trends  
+- Modular backend with clean domain separation  
+- Multi-user, role-based access control  
+- Designed to scale across multiple storefronts and platforms  
+
+**Tech highlights**
+- Node.js backend  
+- RESTful APIs  
+- MySQL + MongoDB  
+- AWS S3 for storage  
+- Built with extensibility and long-term evolution in mind  
+
+---
+
+### 🔹 AI-First Internal Tools & Dashboards
+- RAG-based applications for structured knowledge retrieval  
+- Admin and analytics dashboards with real-time data  
+- Workflow tooling focused on speed and developer ergonomics  
+
+These projects taught me a lot about **prompt reliability, system boundaries, and failure modes in AI-assisted systems**.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React  
+- Next.js (App Router)  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion  
+
+### Backend
+- Node.js  
+- Express  
+- REST API design  
+- Authentication & authorization systems  
+
+### Databases & Caching
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Redis  
+
+### Infra & Tooling
+- AWS (S3, EC2, IAM)  
+- Docker  
+- Linux  
+- Git & CI workflows  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjit450&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Debjit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debjit1122&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit450&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=debjit450&theme=dark&border_radius=5&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit1122&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=debjit1122&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Currently Exploring
-| Focus Area | Goal |
-| :--- | :--- |
-| **Generative AI** | Building RAG-based applications and AI agents for workflow automation. |
-| **System Design** | Deep diving into Microservices and Distributed Caching (Redis/Kafka). |
-| **Web3** | Exploring the intersection of decentralized identity and modern web apps. |
+
+| Area | Focus |
+|---|---|
+| AI Systems | RAG pipelines, agents, prompt reliability |
+| System Design | Distributed systems, caching, failure handling |
+| Developer Tooling | Building tools that feel obvious to use |
+| Product Thinking | Fewer features, stronger fundamentals |
 
 ---
 
-## 💡 Life Beyond the Screen
-- **☕ Coffee Addict:** Fueling late-night commits with the perfect brew.
-- **📚 Continuous Learner:** I spend my weekends reading technical blogs or exploring the latest GitHub trends.
-- **🤝 Mentorship:** I love helping junior devs navigate the complex world of Full Stack development.
-- **🎮 Casual Gamer:** Occasionally found in virtual worlds when I'm not in my IDE.
+## 🧬 Outside of Code
+
+- ☕ Runs on coffee and curiosity  
+- 📚 Reads engineering blogs, postmortems, and product essays  
+- 🧠 Enjoys thinking about why systems fail in production  
+- 🤝 Likes helping developers reason through hard problems  
+- 🎮 Games occasionally to reset the brain  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+I’m open to:
+- interesting engineering problems  
+- early-stage product collaboration  
+- thoughtful technical discussions  
 
 <p align="left">
-<a href="https://www.debjitdey.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/debjit-dey" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.debjitdey.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/debjit-dey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-debjitdey450@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> <br> 
-  <b>— Cory House</b>
+  <i>“Make it work. Make it right. Make it obvious.”</i><br/>
+  <b>— My personal engineering rule</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debjit450&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=debjit1122&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
